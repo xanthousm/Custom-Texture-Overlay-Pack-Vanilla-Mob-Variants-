@@ -16,7 +16,7 @@ So to make these textures usable while not doing any unpermitted sharing, this r
 When both this pack and Vanilla Mob Variants are active, you may have to reset minecraft to make any changes appeear, so its easier to disable both pack before making changes, then re-enabling them again.
 
 ### DO NOT SHARE TEXTURE FILES THAT YOU DONT HAVE PERMISSION FOR
-Sharie the source link for a texture instead. It isn't very hard, and it helps the texture creator know that people are appreciating their work!
+Share the link to the texture's source instead. It isn't very hard, and it helps the texture creator know that people are appreciating their work!
 
 Have fun with your custom textures!
 - xanion
