@@ -15,8 +15,15 @@ So to make these textures usable while not doing any unpermitted sharing, this r
 
 When both this pack and Vanilla Mob Variants are active, you may have to reset minecraft to make any changes appeear, so its easier to disable both pack before making changes, then re-enabling them again.
 
+### Why not just replace files in Vanilla Mob Variants?
+There's nothing stopping you from doing this, but this would mean that you would have to replace the files every time Vanilla Mob Variants gets an update. By using this pack instead, you don't have to repetedly replace files for updates!
+
+### What if I want to use the textures from one of the other pack options?
+You can either copy those textures into the "v"/"c" folders, or you can add a "cv"/"cu" folder to this pack to replace textures in the other options. The reason those folders aren't in this pack already is because they will likely change in future updates. The "c" and "v" folders will not change.
+
 ### DO NOT SHARE TEXTURE FILES THAT YOU DONT HAVE PERMISSION FOR
 Share the link to the texture's source instead. It isn't very hard, and it helps the texture creator know that people are appreciating their work!
 
 Have fun with your custom textures!
-- xanion
+
+-xanion
