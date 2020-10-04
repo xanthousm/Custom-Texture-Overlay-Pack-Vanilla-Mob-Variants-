@@ -24,6 +24,9 @@ You can either copy those textures into the "v"/"c" folders, or you can add a "c
 ### DO NOT SHARE TEXTURE FILES THAT YOU DONT HAVE PERMISSION FOR
 Share the link to the texture's source instead. It isn't very hard, and it helps the texture creator know that people are appreciating their work!
 
+**A great place to find mob textrues:** https://www.planetminecraft.com/mob-skins/
+Some of the java textures are different from the bedrock versions (eg: java zombie textures), so you might have to make slight edits (usually its just cropping out extra areas) for these textures work.
+
 Have fun with your custom textures!
 
 -xanion
