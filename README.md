@@ -15,6 +15,8 @@ So to make these textures usable while not doing any unpermitted sharing, this r
 
 When both this pack and Vanilla Mob Variants are active, you may have to reset minecraft to make any changes appeear, so its easier to disable both pack before making changes, then re-enabling them again.
 
+**Would you like a step-by-step video on how to use this pack? Let me know in the pack's discord!** https://discord.gg/UbjD9ny
+
 ### Why not just replace files in Vanilla Mob Variants?
 There's nothing stopping you from doing this, but this would mean that you would have to replace the files every time Vanilla Mob Variants gets an update. By using this pack instead, you don't have to repetedly replace files for updates!
 
