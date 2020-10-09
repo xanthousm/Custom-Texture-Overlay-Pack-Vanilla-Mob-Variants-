@@ -28,7 +28,7 @@ Share the link to the texture's source instead. It isn't very hard, and it helps
 
 **A great place to find mob textrues:** https://www.planetminecraft.com/mob-skins/
 
-Some of the java textures are different from the bedrock versions (eg: java zombie textures), so you might have to make slight edits (usually its just cropping out extra areas) for these textures work.
+Some of the java textures are different from the bedrock versions (eg: java zombie textures), so you might have to make slight edits (usually its just cropping out extra areas) for these textures to work.
 
 Have fun with your custom textures!
 
